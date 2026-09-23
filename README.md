@@ -15,3 +15,7 @@ I also liked the idea that software is never completely finished. As a project g
 I found this article interesting because it shows that code review can be an ongoing process instead of something that only happens before merging a pull request. I also like the idea that developers should keep revisiting old code as a project changes. In larger projects, this seems important because code that was originally fine may become harder to maintain over time. Continuous refinement can help keep the codebase cleaner and easier for the whole team to understand.
 
 — Tony Zhou
+
+### Comment by Chenxin Yan (cy2558)
+
+I like the idea that code review doesn't stop after a PR is merged. What stood out to me is that improving old code depends on having tests you can trust. That connects to my interest in coding agents: making a change is only part of the work, and we still need a way to check that it hasn't broken something else.
